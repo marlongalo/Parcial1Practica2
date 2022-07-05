@@ -16,7 +16,7 @@ public class Parcial1Practica2 {
         System.out.println("//Elaborado por Marlon Galo");
         System.out.println("//1.-Crear una clase que se llame Recursos con 4 métodos diferentes");
         System.out.println("//2.-Instanciar la clase en el programa principal y llamar a los métodos con diferentes operaciones");
-        
+        System.out.println("Practica en GITBUB");
         //Instanciar la clase Recursos
         Recursos recursos = new Recursos();
                 
